@@ -150,4 +150,4 @@
  * 启动时，在SpringBoot 主入口类，加上注解`@MapperScan("cn.enn.mybatisgenerator.mapper")`
  * 具体使用， 参考 [MyBatis的Mapper接口以及Example的实例函数及详解](https://blog.csdn.net/biandous/article/details/65630783)
  
- 7. 
+ 
