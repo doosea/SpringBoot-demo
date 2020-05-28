@@ -1,9 +1,11 @@
 package cn.enn.mybatisgenerator;
 
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+@MapperScan("cn.enn.mybatisgenerator.mapper")
 public class MybatisGeneratorApplication {
 
     public static void main(String[] args) {
