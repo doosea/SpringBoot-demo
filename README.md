@@ -4,6 +4,11 @@
 * `mybatis-generator` :  mybatis 逆向生成使用 
 
 
+待更新：
+1. websoket 的使用；
+2. 日志的配置与使用；
+3. swagger2 的配置与使用；
+4. 查询结果PageHelper分页的使用；
 
 
 
