@@ -1,0 +1,14 @@
+server:
+  port: 8080
+#\u8C03\u5EA6\u4E2D\u5FC3
+xxl:
+  job:
+    accessToken: ''
+    admin:
+      addresses: http://127.0.0.1:8081/xxl-job-admin
+    executor:
+      appname: dosea
+      ip:
+      logpath: /data/applogs/xxl-job/dosea
+      logretentiondays: 30
+      port: 9999
