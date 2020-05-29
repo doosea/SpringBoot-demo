@@ -16,9 +16,9 @@ public class PaymentController {
     @Resource
     private PaymentService paymentService;
 
-    @PostMapping("/creat")
-    public CommonResult creat(Payment payment) {
-        int result = paymentService.creat(payment);
+    @PostMapping("/create")
+    public CommonResult create(Payment payment) {
+        int result = paymentService.create(payment);
         if (result > 0) {
             return new CommonResult(200, "success", result);
         } else {

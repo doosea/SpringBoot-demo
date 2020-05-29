@@ -15,7 +15,7 @@ public class PaymentServiceImpl implements PaymentService {
 
 
     @Override
-    public int creat(Payment payment) {
+    public int create(Payment payment) {
         int result = paymentMapper.insertSelective(payment);
         return result;
     }
