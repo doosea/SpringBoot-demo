@@ -1,6 +1,9 @@
 # SpringBoot 从入门到入土
 
 * `xxl-job` : springboot 整合 xxl-job ，完成定时任务的demo;
+
+    ![xxl-job/README.md](xxl-job/README.md)
+    
 * `mybatis-generator` :  mybatis 逆向生成使用 
 
 
