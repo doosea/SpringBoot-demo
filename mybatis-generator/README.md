@@ -2,7 +2,7 @@
 
 ## 配置流程
 
-1. 首先创建 Springboot 工程， 引入 `lombok`、`web` 、`mybatis` 、`mysql`驱动；
+1. 首先创建 Springboot 工程， 引入 `lombok`、`web` 、`mybatis` 、`mysql`依赖；
 
 2. 添加 `mybatis-generator-maven-plugin`插件
     ```xml
