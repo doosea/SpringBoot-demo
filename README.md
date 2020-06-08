@@ -12,9 +12,9 @@
     [websocket/README.md](websocket/README.md)
 
 待更新：
-2. 日志的配置与使用；
-3. swagger2 的配置与使用；
-4. 查询结果PageHelper分页的使用；
+1. 日志的配置与使用；
+2. swagger2 的配置与使用；
+3. 查询结果PageHelper分页的使用；
 
 
 
